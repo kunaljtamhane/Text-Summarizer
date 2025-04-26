@@ -3,6 +3,7 @@
 readme_content = """
 # AI Text Summarization using Google PEGASUS transformer model and Hugging Face Samsum Dataset
 
+Note: this is a very big notebook to preview please download it on yuor local device and then open in any notebook supported software (Jupyter notebook or Google Colab)
 ## 📚 Project Overview
 This project develops an **abstractive text summarization pipeline** using the **PEGASUS** (`google/pegasus-cnn_dailymail`) model from Hugging Face.  
 It focuses on summarizing dialogues from the **SAMSum** dataset, demonstrating the capabilities of **Generative AI** in producing human-like summaries.
